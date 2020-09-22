@@ -1,6 +1,6 @@
 ### Hello, I'm Sang 👋
 
-I'm a senior computer science and economics student at DePauw University. I'm currently a Network Data Analytics Intern at Community Health Network (IN). I enjoy research related to machine learning, statistical learning, game theory, and decision theory. I'm also interested in computer-aided nano-materials development. Check out my recent <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">publications</a>. My contact information is below. Please connect as I love to talk and collaborate with scholars all around the globe!
+I'm a senior at DePauw University. I'm currently a Network Data Analytics Intern at Community Health Network (IN). I enjoy research related to statistical learning, data mining, and applied mathematical modeling. I'm also interested in computational chemistry. Check out my recent <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">publications</a>. My contact information is below. Please connect as I love to talk and collaborate with scholars all around the globe!
 
 <p align="center">
 <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">

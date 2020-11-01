@@ -1,6 +1,6 @@
 ### Hello, I'm Sang 👋
 
-I'm a senior at DePauw University. I enjoy research related to statistical learning, data mining, and applied mathematical modeling. I'm also interested in computational chemistry. Check out my recent <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">publications</a>. My contact information is below. Please connect as I love to talk and collaborate with scholars all around the globe!
+I'm a senior at DePauw University. The driving force of my research is the interdisciplinary application of machine learning and statistical algorithms. Check out my <a href="https://drive.google.com/drive/folders/1gsAtxHmku5Iadxs2srXqOUzvMnoRg2jN?usp=sharing">CV</a> and recent <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">publications</a>. My contact information is below. Please connect as I love to talk and collaborate with scholars all around the globe!
 
 <p align="center">
 <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">

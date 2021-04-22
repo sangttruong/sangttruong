@@ -1,6 +1,6 @@
 ### Hello, I'm Sang 👋
 
-I develop machine learning models to study complex interconnected systems arising in chemistry and economics. I'm a PhD student at Stanford University (CA). Check out my <a href="https://drive.google.com/drive/folders/1gsAtxHmku5Iadxs2srXqOUzvMnoRg2jN?usp=sharing">CV</a> and recent <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">publications</a>.
+I develop machine learning models to study complex interconnected systems arising in chemistry and economics. I'm a PhD student in Computer Science (AI/ML) at Stanford University (CA). Check out my <a href="https://drive.google.com/drive/folders/1gsAtxHmku5Iadxs2srXqOUzvMnoRg2jN?usp=sharing">CV</a> and recent <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">publications</a>.
 
 <p align="center">
 <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">

@@ -14,3 +14,9 @@ I'm a CS Ph.D. student (AI/ML) at Stanford. My research interest includes AI/ML/
 <a href="https://www.facebook.com/sangttruong0">
 <img src="https://img.shields.io/badge/-Facebook-%4eb13a5" alt="Facebook" /></a> 
 </p>
+
+<div align="center">
+
+[![Sang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangttruong)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>

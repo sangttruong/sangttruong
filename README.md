@@ -1,6 +1,6 @@
-### Hello, I'm Sang 👋
+### Hello, I'm Sang [<a href="https://drive.google.com/drive/folders/1gsAtxHmku5Iadxs2srXqOUzvMnoRg2jN?usp=sharing">CV</a>] 👋
 
-I'm a CS Ph.D. student (AI/ML) at Stanford. My research interest includes AI/ML/Stat for systems in molecular and social sciences [<a href="https://drive.google.com/drive/folders/1gsAtxHmku5Iadxs2srXqOUzvMnoRg2jN?usp=sharing">CV</a>].
+I'm a CS Ph.D. student (AI/ML) at Stanford. My research interest includes AI/ML/Stat for systems in molecular and social sciences.
 
 <p align="center">
 <a href="https://scholar.google.com/citations?user=3vc6zDsAAAAJ&hl=en">
